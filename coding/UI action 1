@@ -1,0 +1,4 @@
+current.u_status = 'Lost';
+
+current.update();
+action.setRedirectURL(current);
