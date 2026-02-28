@@ -1,0 +1,4 @@
+current.u_status = 'Damaged';
+
+current.update();
+action.setRedirectURL(current);
