@@ -1,0 +1,5 @@
+current.u_status = 'Available';
+
+current.update();
+
+action.setRedirectURL(current);
